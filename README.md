@@ -1,0 +1,2 @@
+# mbzSTnCOlu
+本项目为基于Python的电影网站系统，具备数据采集、预处理、分析、可视化和系统管理等功能。系统采用Python开发，利用Pandas、NumPy、Matplotlib等工具进行数据统计分析与可视化，同时整合Flask和Django框架实现前后端分离。系统架构包括前端HTML/CSS/JavaScript和后端Python脚本，以及MongoDB/MySQL数据库存储。
